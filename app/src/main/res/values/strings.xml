@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Math Tool</string>
+    <string name="hello">Hello!你好！</string>
+    <string name="button">点击</string>
+    <string name="textview">TextView</string>
+    <string name="jump_test">跳转测试页</string>
+
+</resources>
